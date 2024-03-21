@@ -1,0 +1,186 @@
+/* Estilo geral*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+}
+
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.btn-contato button{
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(80, 233, 113);
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+h2.titulo{
+    color: #fff;
+    font-size: 38px;
+    text-align: center;
+}
+
+h2.titulo span{
+    color: rgb(68, 238, 68);
+}
+
+button:hover{
+    box-shadow: 0px 0px 8px rgb(29, 231, 114);
+    transform: scale(1.05);
+}
+
+/* Estilo do cabeçalho*/
+header{
+    padding: 40px 4%;
+
+}
+
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a {
+    color: #7d8de6;
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+}
+
+header a:hover {
+    color: #fff;
+    transform: scale(1.05);
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 40px;
+}
+
+/* Estilo do topo do site*/
+section.topo-site{
+    padding: 40px 4%;
+}
+
+section.topo-site .flex{
+    align-items: center;
+    justify-content: center;  
+    gap: 90px;  
+}
+
+.topo-site h1{
+    color: #fff;
+    font-size: 38px;
+    line-height: 40px;
+}
+
+.topo-site .txt-topo-site h1 span{
+    color: blue;
+}
+
+.topo-site .txt-topo-site p{
+    color: #fff;
+    margin: 40px 0;
+}
+
+.topo-site .img-topo-site img{
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+
+@keyframes flutuar{
+    0%{
+        top: 0;        
+    }
+    100%{
+        top: 30px;
+    }
+}
+
+/* Estilo das habilidades */
+section.habilidades{
+    padding: 40px 4%;
+}
+
+section.habilidades .flex{
+    gap: 60px;
+}
+
+.habilidades .habilidades-box{
+    color: #fff;
+    padding: 40px;
+    border-radius: 20px;
+    margin-top: 35px;
+    transition: .2s;
+}
+
+.habilidades .habilidades-box:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #82cfee;
+}
+
+.habilidades .habilidades-box i{
+    font-size: 60px;
+    color: rgb(59, 228, 59);
+}
+
+.habilidades .habilidades-box h3{
+    font-size: 28px;
+    margin: 15px;
+}
+
+/* Estilo sobre */
+section.sobre{
+    padding: 40px 4%;    
+}
+
+section.sobre .flex{
+    align-items: center;
+    gap: 60px;
+}
+
+.sobre .txt-sobre{
+    color: #fff;
+}
+
+.sobre .txt-sobre h2{
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+.sobre .txt-sobre p{
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.sobre .txt-sobre .btn-social button{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: none;
+    background-color: #34e42e;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: .2s;
+}
