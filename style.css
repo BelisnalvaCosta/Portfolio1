@@ -48,8 +48,7 @@ button:hover form .btn-enviar input:hover{
 
 /* Estilo do cabeçalho*/
 header{
-    padding: 40px 4%;
-
+    padding: 20px 3%;       
 }
 
 header > .interface{
@@ -83,7 +82,6 @@ header nav ul li {
     display: inline-block;
     padding: 0 40px;
 }
-
 
 /* Estilo do topo do site*/
 section.topo-site{
@@ -153,7 +151,7 @@ section.habilidades .flex{
 }
 
 .habilidades .habilidades-box h3{
-    font-size: 28px;
+    font-size: 30px;
     margin: 15px;    
 }
 
@@ -169,13 +167,13 @@ section.sobre .flex{
 
 .sobre .txt-sobre{
     color: #fff;
-    font-size: 25px;
+    font-size: 23px;
 }
 
 .sobre .txt-sobre h2{
     font-size: 40px;
     line-height: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .sobre .txt-sobre p{
     margin: 20px 0;
@@ -195,14 +193,14 @@ section.sobre .flex{
 }
 
 /* Estilo do Portfolio*/
-section.portfolio{
+.section.portfolio{
     padding: 60px 4%;
     box-shadow: 0 0 20px 5px #7d8de6b7;
 }
 
 section.portfolio .flex{
     justify-content: space-around;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 .img-port{
@@ -309,8 +307,9 @@ form .btn-enviar input{
 
 /* Estilo do rodapé */
 footer{
-    padding: 40px 4%;
-    box-shadow: 0 0 20px 5px #7d8de6b7;
+    padding: 2rem;
+    box-shadow: 0 0 20px 5px #9ea9ebb7;
+    position: sticky;
 }
 
 footer .flex{
@@ -318,11 +317,11 @@ footer .flex{
 }
 
 footer .line-footer{
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 .borda{
-    border-top: 2px solid #82cfee;
+    border-top: 1px solid #82cfee;
 }
 
 footer .line-footer p i{
