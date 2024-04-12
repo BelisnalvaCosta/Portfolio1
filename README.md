@@ -24,7 +24,10 @@ Este projeto foi feito na IDE Visual Studio Code, com o objetivo de detalhar min
       <span>Aprendendo a desenvolver Back-end e Front-end "FullStack"</span>
     </td>
     <td>
-    [![Assista ao vídeo](https://img.VID_Portf_DCExpert7.mp4/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
+      <img width="80px" align="center" src="![image](https://github.com/BelisnalvaCosta/Portfolio1/assets/72033269/60f78b10-b2a2-4e9b-81e6-4f06323608cc)
+     </td>
+     <td align="left">
+      ![Assista ao vídeo](https://imge.VID_Portf_DCExpert7.mp4/vi/APOPm01BVrk/hqdefault.jpg)(https://imge.VID_Portf_DCExpert7.mp4/embed/APOPm01BVrk)
     </td>
   </tr>
 </table>
