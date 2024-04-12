@@ -21,10 +21,7 @@ Este projeto foi feito na IDE Visual Studio Code, com o objetivo de detalhar min
         <span><b>Belisnalva Costa</b></span>
       </a>
       <br>
-      <span>Aprendendo a desenvolver Back-end e Front-end "FullStack"</span>
-    </td>
-    <td>
-      <img width="80px" align="center" src="![image](https://github.com/BelisnalvaCosta/Portfolio1/assets/72033269/60f78b10-b2a2-4e9b-81e6-4f06323608cc)
+      <span>Aprendendo a desenvolver Back-end e Front-end "FullStack"</span>    
     </td>
   </tr>
 </table>
