@@ -14,10 +14,7 @@ Este projeto foi feito na IDE Visual Studio Code, com o objetivo de detalhar min
   <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/BelisnalvaCosta"/>
-      ![Vídeo_Portf_DCExpert7.mp4](<video width="180" height="120" controls>
-        <source src="/images/VID_Portf_DCExpert7.mp4" type="video/mp4"></video>)
-      ![Vídeo](https://video.shields.io/badge/Video_Portf_DCExpert7.mp4-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/BelisnalvaCosta"/>      
     </td>
     <td align="left">
       <a href="https://github.com/BelisnalvaCosta">
@@ -25,6 +22,10 @@ Este projeto foi feito na IDE Visual Studio Code, com o objetivo de detalhar min
       </a>
       <br>
       <span>Aprendendo a desenvolver Back-end e Front-end "FullStack"</span>
+    </td>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/BelisnalvaCosta"/>
+      ![Vídeo](https://images/VID_Portf_DCExpert7.mp4.shields.io/badge/VID_Portf_DCExpert7.mp4-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
     </td>
   </tr>
 </table>
