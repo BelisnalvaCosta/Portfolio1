@@ -1,6 +1,7 @@
 # Criando um portfólio Dio Campus Expert. [^1].
 
 Este projeto foi feito na IDE Visual Studio Code, com o objetivo de detalhar minhas Soft Skills, minha habilidades e alguns projetos e contar um pouco sobre o Dio Campus Expert.
+
 <a href="https://drive.google.com/file/d/1xjPyCbUHI0uXBgLmx7EYyjfMJObT-ggV/view">Pequeno vídeo</a>
 
 # Tecnologia  utilizada:
